@@ -1,0 +1,1 @@
+include ':app', ':xubiao2', ':xubiao3', ':xubiao4', ':xubiao5', ':xubiao6.7', ':xubiao8', ':xubiao9'
